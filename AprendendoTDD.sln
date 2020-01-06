@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoTDD.DominioTest", "test\AprendendoTDD.DominioTest\AprendendoTDD.DominioTest.csproj", "{3B71815B-E463-4760-BF26-91C618C6F737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoTDD.Dominio", "src\AprendendoTDD.Dominio\AprendendoTDD.Dominio.csproj", "{869D5500-C57E-402B-BC9C-0E2C3B0C37A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B71815B-E463-4760-BF26-91C618C6F737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B71815B-E463-4760-BF26-91C618C6F737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B71815B-E463-4760-BF26-91C618C6F737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B71815B-E463-4760-BF26-91C618C6F737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869D5500-C57E-402B-BC9C-0E2C3B0C37A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869D5500-C57E-402B-BC9C-0E2C3B0C37A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869D5500-C57E-402B-BC9C-0E2C3B0C37A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869D5500-C57E-402B-BC9C-0E2C3B0C37A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C8CB2B-EA8B-4A78-A3B5-BFB18022E824}
+	EndGlobalSection
+EndGlobal
